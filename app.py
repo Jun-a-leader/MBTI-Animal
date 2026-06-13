@@ -433,8 +433,6 @@ st.markdown(
     MBTI를 넣으면 너랑 찰떡인 동물을 추천하고, 성향도 재밌게 알려줄게. {sparkle_line()}
   </div>
   <div class="chip-row">
-    <span class="chip">🎈 풍선효과</span>
-    <span class="chip">✨ 반짝 애니메이션</span>
     <span class="chip">🧠 성향 분석</span>
     <span class="chip">🐶 동물 매칭</span>
   </div>
